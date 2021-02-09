@@ -1,0 +1,9 @@
+.box{
+    height: 200px;
+    border: 0.5px solid black;
+    text-align: center;
+    padding-top: 80px;
+    background: cornsilk;
+    font-family: 'Vazir', sans-serif;
+
+}
