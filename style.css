@@ -1,0 +1,29 @@
+.container-fluid{
+    background-image: url('whitenoise-361x370.png');
+}
+.box_top{
+    background: #D06A60;
+    height: 110px;
+}
+
+.box_text{
+    border: 10px solid gray;
+}
+.box_right{
+    border: 3px solid gray;
+    height: 600px;
+    text-align: center;
+    padding: 20px;
+}
+.box_left{
+    border: 3px solid gray;
+    height: 600px;
+    text-align: center;
+    padding: 20px;
+}
+.box_3item{
+    border:.5px solid black;
+    height: 250px;
+    text-align: center;
+    padding-top: 100px;
+}
